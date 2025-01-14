@@ -1,6 +1,6 @@
 # Python & Flask: Estructura de Carpetas y Archivos
 
-Aprende a estructurar un proyecto web (RESTful API) de Python y Flask organizando tus archivos y carpetas de forma ordenada, incluyendo directorios para: routes, models, services, testing y más.
+Estructura de proyecto web (RESTful API) de Python y Flask organizado archivos y carpetas de forma ordenada, incluyendo directorios para: routes, models, services, testing y más.
 
 <hr/>
 
